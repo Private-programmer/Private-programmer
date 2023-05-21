@@ -1,7 +1,7 @@
 ### Hi there 👋
 
+![Alt gif](https://media3.giphy.com/media/BemKqR9RDK4V2/giphy.gif?cid=ecf05e47wtmr82x8xuwdevfgp37eafjgpw88difchsy90cj7&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-![Alt Text](https://media3.giphy.com/media/ThrM4jEi2lBxd7X2yz/giphy.gif?cid=ecf05e47jgt7wcdq82h39o599kyyodmecyt5kf9mh9wnohyx&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 <!--
 **Private-programmer/Private-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
