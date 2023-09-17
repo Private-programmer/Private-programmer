@@ -3,7 +3,14 @@
 ![Alt gif](https://media3.giphy.com/media/BemKqR9RDK4V2/giphy.gif?cid=ecf05e47wtmr82x8xuwdevfgp37eafjgpw88difchsy90cj7&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
+
+
 <!--
+![LeetCode Stats](https://leetcode.card.workers.dev/private-programmer?theme=dark&font=baloo&extension=null)
+
+
+
+
 **Private-programmer/Private-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
