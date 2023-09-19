@@ -1,11 +1,15 @@
-### Hi there 👋
+### Hi 👋
 
-![Alt gif](https://media3.giphy.com/media/BemKqR9RDK4V2/giphy.gif?cid=ecf05e47wtmr82x8xuwdevfgp37eafjgpw88difchsy90cj7&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+dev 🫡
 
+Trying to build and learn some cool stuff 😎 
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/private-programmer?theme=dark&font=baloo&ext=heatmap)
 
 
 
 <!--
+![Alt gif](https://media3.giphy.com/media/BemKqR9RDK4V2/giphy.gif?cid=ecf05e47wtmr82x8xuwdevfgp37eafjgpw88difchsy90cj7&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 ![LeetCode Stats](https://leetcode.card.workers.dev/private-programmer?theme=dark&font=baloo&extension=null)
 
 
