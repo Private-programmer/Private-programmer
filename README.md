@@ -2,8 +2,6 @@
 
 dev 🫡
 
-Trying to build and learn some cool stuff 😎 
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/private-programmer?theme=dark&font=baloo&ext=heatmap)
 
 
